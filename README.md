@@ -16,3 +16,5 @@ Theme 0 is represented as '0.011*"война" + 0.007*"любовь" + 0.007*"м
 This means that the top 10 keywords that make up this theme are 'война', 'любовь', 'мочь', 'человек', etc. The weight of the word 'война' in topic 0 is 0.011.
 The weights reflect how important the keyword is to that topic. 
 The number of topics we want to extract from each set is given by us arbitrarily; in this case this number is ten.
+
+Dataset is available here https://disk.yandex.ru/d/hcrrRc2GrNq2aA
